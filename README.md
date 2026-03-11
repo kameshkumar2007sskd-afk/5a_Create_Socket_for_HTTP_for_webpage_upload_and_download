@@ -16,7 +16,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 ## Program 
-##Server:
+## Server:
 ```
 import socket
 
@@ -51,7 +51,7 @@ while True:
 
     c.close()
 ```
-##Client:
+## Client:
 ```
 import socket
 
@@ -81,11 +81,11 @@ else:
 s.close()
 ```
 ## OUTPUT
-##Server:
+## Server:
 <img width="1153" height="273" alt="image" src="https://github.com/user-attachments/assets/4fd5c7d1-3e80-4a49-8b8d-0c9f827fb86d" />
-##Client:
+## Client:
 <img width="1161" height="322" alt="image" src="https://github.com/user-attachments/assets/9e7e1711-85cd-4b7c-9981-0a03566eccec" />
-##Uploaded:
+## Uploaded:
 <img width="1330" height="941" alt="image" src="https://github.com/user-attachments/assets/a31f1836-3c51-4c93-a595-a377609045d8" />
 
 
